@@ -132,6 +132,7 @@ A curated list of awesome AI resources, tools, frameworks, and libraries.
 ### MCPs
 
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) - GitHub MCP Server integrates AI tools with GitHub, enabling natural language interactions for repository management, issue automation, CI/CD monitoring, and code analysis. It supports both remote a...
+- [MCP Atlassian](https://github.com/sooperset/mcp-atlassian) - MCP Atlassian is a server integration for Atlassian products like Confluence and Jira, supporting both cloud and server/data center deployments. It facilitates tasks such as automatic Jira updates,...
 
 ---
 
