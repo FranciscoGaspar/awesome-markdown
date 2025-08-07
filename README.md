@@ -127,6 +127,8 @@ A curated list of awesome AI resources, tools, frameworks, and libraries.
 
 ### Model Monitoring
 
+### MCPs
+
 ---
 
 ## AI Research
