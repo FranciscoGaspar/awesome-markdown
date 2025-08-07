@@ -129,8 +129,8 @@ A curated list of awesome AI resources, tools, frameworks, and libraries.
 
 ### MCPs
 
-- [GitHub MCP Server Integration Guide](https://github.com/github/github-mcp-server) - The GitHub MCP Server integrates AI tools with GitHub, enabling natural language interactions for repository management, issue and PR automation, CI/CD monitoring, code analysis, and team collaboration. It supports both remote and local installations, with configurations for various IDEs and hosts.
 - [GitHub MCP Server Overview](https://github.com/github/github-mcp-server) - The GitHub MCP Server integrates AI tools with GitHub, enabling natural language interactions for repository management, issue automation, CI/CD monitoring, code analysis, and team collaboration. It supports both remote and local setups, with installation options for various IDEs and configurations for enhanced security and functionality.
+- [ntfy-me-mcp: Model Context Protocol Notification Server](https://github.com/gitmotion/ntfy-me-mcp) - ntfy-me-mcp is a streamlined server that enables AI assistants to send real-time notifications via the ntfy service, supporting both public and self-hosted instances. It features automatic URL detection, smart markdown formatting, and secure token handling, facilitating rich, interactive notifications without constant monitoring. The server can be set up using npm, npx, or Docker, and supports integration with MCP-compatible assistants for efficient notification management.
 
 ---
 
