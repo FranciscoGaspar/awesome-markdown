@@ -129,6 +129,8 @@ A curated list of awesome AI resources, tools, frameworks, and libraries.
 
 ### Model Monitoring
 
+- [Langfuse Overview and Features](https://www.youtube.com/watch?v=9i4QrHs_dzk&ab_channel=Langfuse) - Langfuse is an open-source tool for observability and analytics in LLM applications, offering features like execution tracing, quality analysis, and user feedback integration.
+
 ### MCPs
 
 ---
