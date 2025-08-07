@@ -127,12 +127,7 @@ A curated list of awesome AI resources, tools, frameworks, and libraries.
 
 ### Model Monitoring
 
-- [LangFews](https://www.youtube.com/watch?v=9i4QrHs_dzk&ab_channel=Langfuse) - LangFews is an open-source tool for observability and analytics in LLM applications, providing insights into quality, cost, and latency through detailed execution traces and dashboards.
-- [Langfuse](https://github.com/langfuse/langfuse) - Langfuse is an open-source LLM engineering platform that facilitates the development, monitoring, evaluation, and debugging of AI applications. It offers features like LLM observability, prompt man...
-
 ### MCPs
-
-- [GitHub MCP Server](https://github.com/github/github-mcp-server) - GitHub MCP Server connects AI tools to GitHub, enabling natural language interactions for repository management, issue and PR automation, CI/CD monitoring, and code analysis.
 
 ---
 
