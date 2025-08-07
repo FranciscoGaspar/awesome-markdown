@@ -259,9 +259,6 @@ A curated list of awesome AI resources, tools, frameworks, and libraries.
 
 ### IDEs & Editors
 
-- [GitHub MCP Server Overview](https://github.com/github/github-mcp-server) - The GitHub MCP Server integrates AI tools with GitHub, enabling natural language interactions for managing repositories, issues, PRs, and workflows. It supports both remote and local installations, with configurations for various IDEs and hosts.
-- [GitHub MCP Server Integration Guide](https://github.com/github/github-mcp-server) - The GitHub MCP Server integrates AI tools with GitHub, enabling natural language interactions for repository management, issue automation, workflow intelligence, and code analysis. It supports both remote and local installations, with configuration options for various IDEs and hosts, and offers features like dynamic tool discovery and read-only mode.
-
 ### Debugging Tools
 
 ### Testing Frameworks
