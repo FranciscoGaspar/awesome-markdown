@@ -122,7 +122,7 @@ A curated list of awesome AI resources, tools, frameworks, and libraries.
 ### Model Training Platforms
 
 - [Langfuse: Open Source LLM Engineering Platform](https://github.com/langfuse/langfuse) - Langfuse is an open-source LLM engineering platform that facilitates the development, monitoring, evaluation, and debugging of AI applications. It offers features like LLM application observability, prompt management, evaluations, and datasets, with options for cloud or self-hosted deployment. Langfuse supports various integrations and provides a comprehensive API for custom workflows.
-- [Langfuse: Open Source LLM Engineering Platform](https://github.com/langfuse/langfuse) - Langfuse is an open-source platform for developing, monitoring, evaluating, and debugging AI applications. It offers features like LLM application observability, prompt management, and comprehensive API support. Langfuse can be self-hosted or used via Langfuse Cloud, with integrations for various AI tools and frameworks.
+- [Langfuse: Open Source LLM Engineering Platform](https://github.com/langfuse/langfuse) - Langfuse is an open-source platform for developing, monitoring, evaluating, and debugging AI applications. It offers features like LLM application observability, prompt management, evaluations, datasets, and an LLM playground. Langfuse supports cloud and self-hosted deployments, and integrates with various frameworks and tools for seamless AI development workflows.
 
 ### AutoML Platforms
 
