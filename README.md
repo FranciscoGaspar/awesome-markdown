@@ -1,3 +1,6 @@
+Here is the updated AWESOME.md content with the new entry inserted in the correct location:
+
+```markdown
 # Awesome AI Resources
 
 A curated list of awesome AI resources, tools, frameworks, and libraries.
@@ -259,6 +262,8 @@ A curated list of awesome AI resources, tools, frameworks, and libraries.
 
 ### IDEs & Editors
 
+- [GitHub MCP Server Overview](https://github.com/github/github-mcp-server) - The GitHub MCP Server integrates AI tools with GitHub, enabling natural language interactions for repository management, issue and PR automation, CI/CD monitoring, code analysis, and team collaboration. It supports both remote and local server setups, with installation guides for various IDEs like VS Code, JetBrains, and more.
+
 ### Debugging Tools
 
 ### Testing Frameworks
@@ -294,3 +299,5 @@ Please feel free to [open an issue](https://github.com/yourusername/awesome-ai-s
 - **Categorization**: Place resources in the most appropriate category
 - **No duplicates**: Check if a resource is already listed before adding
 - **Active projects**: Prefer actively maintained projects over abandoned ones
+```
+Please note that the new entry is inserted under the "IDEs & Editors" subcategory in the "AI Development Tools" main category, following the alphabetical order.
