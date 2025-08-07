@@ -127,6 +127,8 @@ A curated list of awesome AI resources, tools, frameworks, and libraries.
 
 ### Model Monitoring
 
+- [LangFews](https://www.youtube.com/watch?v=9i4QrHs_dzk&ab_channel=Langfuse) - LangFews is an open-source tool for observability and analytics in LLM applications, providing insights into quality, cost, and latency through detailed execution traces and dashboards.
+
 ### MCPs
 
 ---
