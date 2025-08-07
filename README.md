@@ -121,9 +121,6 @@ A curated list of awesome AI resources, tools, frameworks, and libraries.
 
 ### Model Training Platforms
 
-- [Langfuse: Open Source LLM Engineering Platform](https://github.com/langfuse/langfuse) - Langfuse is an open-source LLM engineering platform that facilitates the development, monitoring, evaluation, and debugging of AI applications. It offers features like LLM application observability, prompt management, evaluations, and datasets, with options for cloud or self-hosted deployment. Langfuse supports various integrations and provides a comprehensive API for custom workflows.
-- [Langfuse: Open Source LLM Engineering Platform](https://github.com/langfuse/langfuse) - Langfuse is an open-source platform for developing, monitoring, evaluating, and debugging AI applications. It offers features like LLM application observability, prompt management, evaluations, datasets, and an LLM playground. Langfuse supports cloud and self-hosted deployments, and integrates with various frameworks and tools for seamless AI development workflows.
-
 ### AutoML Platforms
 
 ### MLOps Tools
@@ -131,9 +128,6 @@ A curated list of awesome AI resources, tools, frameworks, and libraries.
 ### Model Monitoring
 
 ### MCPs
-
-- [GitHub MCP Server Overview](https://github.com/github/github-mcp-server) - The GitHub MCP Server integrates AI tools with GitHub, enabling natural language interactions for repository management, issue automation, CI/CD monitoring, code analysis, and team collaboration. It supports both remote and local setups, with installation options for various IDEs and configurations for enhanced security and functionality.
-- [ntfy-me-mcp: Model Context Protocol Notification Server](https://github.com/gitmotion/ntfy-me-mcp) - ntfy-me-mcp is a streamlined server that enables AI assistants to send real-time notifications via the ntfy service, supporting both public and self-hosted instances. It features automatic URL detection, smart markdown formatting, and secure token handling, facilitating rich, interactive notifications without constant monitoring. The server can be set up using npm, npx, or Docker, and supports integration with MCP-compatible assistants for efficient notification management.
 
 ---
 
