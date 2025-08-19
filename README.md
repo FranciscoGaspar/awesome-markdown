@@ -62,6 +62,8 @@ A curated list of awesome AI resources, tools, frameworks, and libraries.
 
 ### Language Models
 
+- [ChatGPT](https://openai.com/index/chatgpt/) - ChatGPT is an AI language model developed by OpenAI, designed to assist users by generating human-like text responses in various applications, including chat interfaces.
+
 ### Sentiment Analysis
 
 ### Named Entity Recognition
