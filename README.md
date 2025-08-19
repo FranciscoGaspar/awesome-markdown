@@ -1,3 +1,4 @@
+```markdown
 # Awesome AI Resources
 
 A curated list of awesome AI resources, tools, frameworks, and libraries.
@@ -70,6 +71,8 @@ A curated list of awesome AI resources, tools, frameworks, and libraries.
 ### Question Answering
 
 ### Text Generation
+
+- [ChatGPT](https://openai.com/index/chatgpt/) - ChatGPT is an AI language model developed by OpenAI, designed to assist users by generating human-like text responses in conversation.
 
 ---
 
@@ -294,3 +297,4 @@ Please feel free to [open an issue](https://github.com/yourusername/awesome-ai-s
 - **Categorization**: Place resources in the most appropriate category
 - **No duplicates**: Check if a resource is already listed before adding
 - **Active projects**: Prefer actively maintained projects over abandoned ones
+```
